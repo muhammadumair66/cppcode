@@ -1,0 +1,14 @@
+
+15 Number of words are in the file.
+Letters : PurchishalemaaakakalelaajahsjssbroYesno
+Digits : 1
+Punctuation : !
+Symbols : #@@#
+Number of Letters : 39
+Number of Digits : 1
+Number of Punctuations : 1
+Number of Symbols : 4
+% of Letters : 86.6667
+Digits : 2.22222
+Punctuation : 2.22222
+Symbols : 8.88889
